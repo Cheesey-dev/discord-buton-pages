@@ -1,4 +1,4 @@
-# discord-buttons-pages
+# discord-button-pages
 Button pages for the discord-buttons package.
 
 This package allows you to have multiple pages of buttons, and to be able to cycle through them using auto-generated buttons.  
@@ -13,7 +13,7 @@ Here is some example code for using the package:
       
       const disbut = require("discord-buttons");
       
-      const disbutpages = require("discord-embeds-pages-buttons")
+      const disbutpages = require("discord-button-pages")
       
       const client = new Discord.Client();
       
