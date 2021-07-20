@@ -5,7 +5,7 @@ This package allows you to have multiple pages of buttons, and to be able to cyc
 
 To install the package, use the following command in the console/terminal/shell.
 
-`npm i discord-embeds-pages-buttons`
+`npm i discord-button-pages`
 
 Here is some example code for using the package:
       
